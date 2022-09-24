@@ -7,7 +7,7 @@
 
 ### 👇 Un poco sobre mí:
 
-Actualmente me encuentro cursando la carrera de Desarrollo Frontend en Ada ITW y la carrera Full Stack Python en Codo a codo 🚀 En mi github podrás encontrar ejercicios, trabajos prácticos y todos los proyectos que voy desarrollando.
+Actualmente me encuentro cursando la carrera de Desarrollo Frontend en Ada ITW y la carrera Full Stack Python en Codo a Codo 🚀 En mi GitHub vas a poder ver mis ejercicios, trabajos prácticos y todos los proyectos que voy desarrollando.
 Me encanta el diseño y resolver problemas programando. Me considero una persona responsable, detallista, con espíritu colaborativo, proactiva y comprometida. 
 Me gusta mucho desarrollar en equipo, estar en constante aprendizaje y por sobre todas las cosas tengo muchas ganas de trabajar y progresar.
 
